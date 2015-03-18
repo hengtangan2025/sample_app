@@ -1,0 +1,13 @@
+Your Gemfile lists the gem rails (= 4.2.0) more than once.
+You should probably keep only one of them.
+While it's not a problem now, it could cause errors if you change the version of just one of them later.
+Run options: --seed 2641
+
+# Running:
+
+.
+
+Finished in 0.560603s, 1.7838 runs/s, 7.1352 assertions/s.
+
+1 runs, 4 assertions, 0 failures, 0 errors, 0 skips
+]2;[Minitest results] 1 tests
